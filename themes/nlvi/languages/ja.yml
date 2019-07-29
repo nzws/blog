@@ -1,0 +1,32 @@
+nav:
+  article: Articles
+  archives: Archives
+  tags: Tags
+  categories: Categories
+  about: About
+  menu: Menu
+  search: Search
+  RSS: RSS
+
+page:
+  prev: 前のページ
+  next: 後のページ
+  comment: コメント
+  share: シェア
+  hide: 隠す
+  readmore: もっと見る...
+  para: '%d Posts'
+  now: 今
+  reward: 褒賞
+  index: 目次
+
+copyright:
+  author: 著者
+  url: URL
+  origin: Origin
+
+friendlink: 私の友達
+
+#footer
+come: Powered by
+theme: Theme
