@@ -24,7 +24,7 @@ Hexo は WordPress などとは違い、**静的サイトジェネレータ**(�
 - **[InstantClick](http://instantclick.io/) を使用しページ移動を高速化した**
 - 一部アニメーションを削った (チカチカしてうるさかったので)
 - FontAwesome を使うようにした
-- フォントがごちゃまぜだったのを [M PLUS Rounded 1c](https://googlefonts.github.io/japanese/#roundedmplus1c) に統一した
+- フォントがごちゃまぜだったのを [M PLUS Rounded 1c](https://fonts.google.com/specimen/M+PLUS+Rounded+1c) に統一した
 - テーマカラーをわさび色にした
 
 などなど、多分今後も改造していきたいです。
