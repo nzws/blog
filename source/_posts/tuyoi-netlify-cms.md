@@ -1,9 +1,9 @@
 ---
 title: Netlify CMSが強すぎる
 tags:
-  - netlify
+  - Netlify
   - SaaS
-date: 2019-07-30 17:15:00
+date: 2019-07-30T17:15:00.000Z
 url: tuyoi-netlify-cms
 ---
 ![](https://res.cloudinary.com/nzws/image/upload/v1564474766/tuyoi-netlify-cms/gagbajtkjggvryfm1h4t.png)
