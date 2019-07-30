@@ -27,9 +27,9 @@ Netlify の管理画面からボタン押すだけなので簡単です。
 
 1. **Settings > Build & deploy**に行き、
 1. **Deploy notifications**で**GitHub pull request comment**を有効化し、
-   ![image](/images/2019-07-30_08-38-00.png)
+   {% asset_img 2019-07-30_08-38-00.png %}
 1. **Deploy Preview succeeded**を選択して保存するだけ
-   ![image](/images/Build & deploy | Settings 2019-07-30 08-54-34.png)
+   {% asset_img "2019-07-30 08-54-34.png" %}
 
 あとは気長に PR が来るのを待つだけです。
 
@@ -38,7 +38,7 @@ Netlify の管理画面からボタン押すだけなので簡単です。
 と言ってもそんなすぐに来るわけがないので、自分で適当に送信してみます。
 実際に送った PR が[こちら](https://github.com/yuzulabo/blog/pull/5)です。
 
-![image](/images/add post by yuzulabo · Pull Request #5 · yuzulabo:blog 2019-07-30 09-12-39.png)
+{% asset_img "2019-07-30 09-12-39.png" %}
 
 こんな感じに、PR を送信するだけで Netlify Bot から URL を含むコメントが勝手に送られてきます。超簡単。
 
