@@ -4,7 +4,7 @@ tags:
   - Netlify
   - SaaS
   - GitHub
-date: 2019-07-30T08:46:48.000Z
+date: 2019-07-30 08:46:48
 url: try-netlify-pr-preview
 ---
 [前回の記事](/2019/07/hello-world/)で書き忘れましたが、ホスティングには [Netlify](https://netlify.com) を使用しています。
