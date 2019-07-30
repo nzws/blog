@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: yuzulabo/blog
+publish_mode: editorial_workflow
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: nzws
+    api_key: 991563184183482
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "source/_posts"
+    slug: "{{url}}"
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Slug", name: "url", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
