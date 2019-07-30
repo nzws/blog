@@ -8,6 +8,11 @@ comments: false
 
 **[nzws.me](https://nzws.me) を見てくれれば 3%くらいは私についてわかってくれると思う**
 
+# このブログについて
+
+備忘録です。作った経緯とかは [hello, world](/2019/07/hello-world/) を参照くだされ。
+https://github.com/yuzulabo/blog で原本を公開してますので、誤字修正とかあればここにお願いします。
+
 # データ収集について
 
 当サイトでは、 Google LLC 提供の [Google アナリティクス](https://analytics.google.com/) を使用しています。
