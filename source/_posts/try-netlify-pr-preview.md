@@ -1,18 +1,18 @@
 ---
 title: Netlify の Deploy Preview を使ってみる
-date: 2019-07-30 08:46:48
 tags:
   - Netlify
   - SaaS
   - GitHub
+date: 2019-07-30T08:46:48.000Z
+url: try-netlify-pr-preview
 ---
-
 [前回の記事](/2019/07/hello-world/)で書き忘れましたが、ホスティングには [Netlify](https://netlify.com) を使用しています。
 その Netlify には、強力な GitHub 連携機能があります。例えば、
 
-- GitHub にプッシュしたら自動でデプロイ
-- デプロイ結果を通知
-- **プルリクエストを受信したらプレビューをデプロイ (Deploy Preview)**
+* GitHub にプッシュしたら自動でデプロイ
+* デプロイ結果を通知
+* **プルリクエストを受信したらプレビューをデプロイ (Deploy Preview)**
 
 などなど、結構有能なのですが、今回はその中の **Deploy Preview** をこのサイトで有効化してみます。
 
@@ -26,10 +26,13 @@ tags:
 Netlify の管理画面からボタン押すだけなので簡単です。
 
 1. **Settings > Build & deploy**に行き、
-1. **Deploy notifications**で**GitHub pull request comment**を有効化し、
-   {% asset_img 2019-07-30_08-38-00.png %}
+2. **Deploy notifications**で**GitHub pull request comment**を有効化し、
+
+![](https://res.cloudinary.com/nzws/image/upload/v1564474209/try-netlify-pr-preview/gs8bpjiryv7zh3dnitvn.png)
+
 1. **Deploy Preview succeeded**を選択して保存するだけ
-   {% asset_img "2019-07-30 08-54-34.png" %}
+
+![](https://res.cloudinary.com/nzws/image/upload/v1564474209/try-netlify-pr-preview/psknwkxdyic3jpwticr5.png)
 
 あとは気長に PR が来るのを待つだけです。
 
@@ -38,7 +41,7 @@ Netlify の管理画面からボタン押すだけなので簡単です。
 と言ってもそんなすぐに来るわけがないので、自分で適当に送信してみます。
 実際に送った PR が[こちら](https://github.com/yuzulabo/blog/pull/5)です。
 
-{% asset_img "2019-07-30 09-12-39.png" %}
+![](https://res.cloudinary.com/nzws/image/upload/v1564474209/try-netlify-pr-preview/ji0zuzh5gmhs5jcxd4zq.png)
 
 こんな感じに、PR を送信するだけで Netlify Bot から URL を含むコメントが勝手に送られてきます。超簡単。
 
