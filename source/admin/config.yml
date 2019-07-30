@@ -2,8 +2,11 @@ backend:
   name: github
   repo: yuzulabo/blog
 publish_mode: editorial_workflow
-media_folder: "source/images"
-public_folder: "/images"
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: nzws
+    api_key: 991563184183482
 
 collections:
   - name: "blog"
