@@ -27,5 +27,6 @@ GitHub: https://github.com/yuzulabo/image-uploader-now
 
 です。
 
-ブログへ画像アップする用に特化させたので、クリップボードからの画像ペーストとかを対応させていて中々強いです。また、アップしたらマークダウンをすぐにコピーできるようにもしました。  
+ブログへ画像アップする用に特化させたので、クリップボードからの画像ペーストとかを対応させていて中々強いです。また、アップしたらマークダウンをすぐにコピーできるようにもしました。
+
 ![image](https://files-blog-nzws-me.sgp1.digitaloceanspaces.com/image-uploader-now/2019-08-02_14-36-36.gif)
