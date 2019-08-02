@@ -6,7 +6,7 @@ tags:
 date: 2019-07-30T17:15:00.000Z
 url: tuyoi-netlify-cms
 ---
-![](https://res.cloudinary.com/nzws/image/upload/v1564474766/tuyoi-netlify-cms/gagbajtkjggvryfm1h4t.png)
+![](https://files-blog.nzws.me/tuyoi-netlify-cms/gagbajtkjggvryfm1h4t.png)
 
 このサイトに [Netlify CMS](https://www.netlifycms.org/) を導入しました。
 ちなみにこの記事はCMSで書いてます。
@@ -41,7 +41,7 @@ layout: false
 
 もう普通のブログのように書いていくだけです。
 
-![](https://res.cloudinary.com/nzws/image/upload/v1564474780/tuyoi-netlify-cms/ffcbtee6elrlapgbpwmp.png)
+![](https://files-blog.nzws.me/tuyoi-netlify-cms/ffcbtee6elrlapgbpwmp.png)
 
 また、GitHubのPRを使用したドラフト機能などもあり、途中で保存する事もできます。
 
