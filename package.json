@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@yuzulabo/prettier-config": "^1.0.1",
-    "hexo-server": "^0.3.3",
+    "hexo-server": "^1.0.0",
     "imagemin": "^7.0.0",
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-pngquant": "^8.0.0",
