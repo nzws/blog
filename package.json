@@ -14,7 +14,7 @@
     "format": "npm-run-all format:* -p"
   },
   "dependencies": {
-    "hexo": "^3.9.0",
+    "hexo": "^4.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^1.2.2",
