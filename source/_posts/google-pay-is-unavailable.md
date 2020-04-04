@@ -1,5 +1,5 @@
 ---
-title: ゆる募: Google Payアプリが動かんくなったので解決方法を教えてくれ
+title: 'ゆる募: Google Payアプリが動かんくなったので解決方法を教えてくれ'
 tags:
   - Google
   - キャッシュレス
