@@ -7,6 +7,14 @@ date: '2020-04-04 16:46:00'
 url: google-pay-is-unavailable
 ---
 
+# 追記
+
+**Google Play開発者サービス** のキャッシュとストレージ消したら直った。
+
+ここより下追記前
+
+***
+
 本当はこんな事たらたらブログに書くつもりじゃなかったのですがイライラ度が増してきたので書きます。解決方法知ってたら [Mastodon: @nzws@don.nzws.me](https://don.nzws.me/@nzws) か [Twitter: @nzws_me](https://twitter.com/nzws_me) までリプください。お願いします！！！
 
 ## 何が起こった
