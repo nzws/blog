@@ -55,4 +55,8 @@ Kyashアプリのアカウントタブからアクティベーションできま
 
 あとオンラインのクレカ設定はちゃんと更新しておこうな！！（完全に忘れてて書いてる時に思い出した人）
 
+### 追記
+
+関係ないけど昨日くらいからVRChat始めたので良かったらフレンドになってください: `nzws`
+
 <script src="https://assets-don.nzws.me/embed.js" async="async"></script>
