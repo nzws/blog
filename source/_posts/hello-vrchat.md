@@ -29,7 +29,7 @@ url: hello-vrchat
 
 <iframe src="https://don.nzws.me/@nzws/103974825792108807/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
 
-そして、初めて2日くらいは一人でプライベートインスタンスを建てまくってワールド観光してました。
+始めて2日くらいは一人でプライベートインスタンスを建てまくってワールド観光してました。
 その後、**自分のアバター**を用意したいと思い調べた所、「トラストレベル」というものを上げないと行けない事を知ったので、これを頑張りました。内容としては、
 
 - AFKでない状態で、プレイ時間を積む: 約8時間でいけた
