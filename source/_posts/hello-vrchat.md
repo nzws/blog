@@ -9,6 +9,12 @@ date: '2020-04-14 01:06:00'
 url: hello-vrchat
 ---
 
+<style>
+  .mastodon-embed {
+    display: block;
+  }
+</style>
+
 ## きっかけ
 
 ここ数年、私は世界最大級の同人誌即売会であるコミックマーケットに参加していました。
